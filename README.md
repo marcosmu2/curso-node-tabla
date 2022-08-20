@@ -1,5 +1,5 @@
 # Notas:
-Este es m
+Este es mi primer proyecto en Node
 ```
 Opciones:
       --help     Muestra ayuda                                        [booleano]
